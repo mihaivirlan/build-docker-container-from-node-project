@@ -11,7 +11,8 @@ sudo docker run --name nodejs-image-demo -p 80:8080 -d your_dockerhub_username/n
 ## Once your container is up and running, you can inspect a list of your running containers with docker ps: <br />
 sudo docker ps
 
-## With your container running, you can now visit your application by navigating your browser to http://your_server_ip.
+## With your container running, you can now visit your application by navigating your browser to: <br />
+http://your_server_ip.
 
 ## Using a Repository to Work with Images
 sudo docker login -u your_dockerhub_username

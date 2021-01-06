@@ -1,4 +1,4 @@
-## Build the application image using the docker build command:
+### Build the application image using the docker build command:
 sudo docker build -t your_dockerhub_username/nodejs-image-demo .
 
 ## It will take a minute or two to build the image. Once it is complete, check your images:
